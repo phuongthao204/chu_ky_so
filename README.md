@@ -35,9 +35,9 @@ TRUYỀN-NHẬN FILE CÓ CHỮ KÝ SỐ(RSA + SHA-512)
   + python chu_ky_so.py
   + chú ý: Ứng dụng sẽ chạy trên http://0.0.0.0:5000 (hoặc http://127.0.0.1:5000 trên máy cục bộ).
 6. Cấu trúc thư mục:
--chu_ky_so.py
--uploads/    # Thư mục chứa các file được ký (tạm thời)
--received/   # Thư mục chứa các file đã nhận (tạm thời)
--README.md
+- chu_ky_so.py
+- uploads/    # Thư mục chứa các file được ký (tạm thời)
+- received/   # Thư mục chứa các file đã nhận (tạm thời)
+- README.md
 7. Ảnh chụp màn hình:
 ![image](https://github.com/user-attachments/assets/e0391056-efe3-48e0-a0ab-1f0491ae1c64)
