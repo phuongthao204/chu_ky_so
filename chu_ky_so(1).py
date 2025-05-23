@@ -70,7 +70,7 @@ HTML = """
 <body class="bg-gray-100 min-h-screen flex items-center justify-center p-4">
     <div class="max-w-6xl mx-auto p-8 bg-white rounded-xl shadow-lg space-y-8 w-full">
         <h1 class="text-3xl font-extrabold text-blue-700 text-center flex items-center justify-center gap-3">
-            <span class="text-4xl">📩</span> Truyền - Nhận File có Chữ Ký Số
+            <span class="text-4xl"></span> Truyền - Nhận File có Chữ Ký Số
         </h1>
 
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
